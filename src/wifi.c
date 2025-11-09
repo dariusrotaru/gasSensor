@@ -4,8 +4,8 @@
 #include "esp_event.h"
 #include <string.h>
 
-#define WIFI_SSID "AvaloN"
-#define WIFI_PASS "@Teiubesc77@"
+#define WIFI_SSID "YOUR_SSID"
+#define WIFI_PASS "@YOUR_PASS@"
 
 static const char *TAG = "WIFI_MODULE";
 
