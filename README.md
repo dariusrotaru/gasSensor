@@ -18,7 +18,9 @@ The architeture is non-blocking using FreeRTOS tasks and event groups to manage 
 
 ![GasSensor.png](hardware/GasSensor.png)
 ![wiring.png](hardware/wiring.png)
-![presentation](hardware/howItWorks.mp4)
+[![VideoPresentation](https://img.youtube.com/vi/gdroKGniK7o/hqdefault.jpg)](https://www.youtube.com/embed/gdroKGniK7o)
+
+
 
 
 ## Key Features:
