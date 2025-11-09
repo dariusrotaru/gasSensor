@@ -7,9 +7,9 @@
 extern EventGroupHandle_t app_event_group;
 extern const int MQTT_CONNECTED_BIT;
 
-#define MQTT_BROKER     "mqtt://192.168.50.91"
-#define MQTT_USER       "proxxym"
-#define MQTT_PASS       "@#Teiubesc77@#"
+#define MQTT_BROKER     "mqtt://YOUR_IP"
+#define MQTT_USER       "YOUR_USER"
+#define MQTT_PASS       "YOUR_PASS"
 #define MQTT_CLIENT_ID  "gasSensor"
 
 static const char *TAG = "MQTT_MODULE";
