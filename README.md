@@ -14,10 +14,11 @@ The architeture is non-blocking using FreeRTOS tasks and event groups to manage 
 * **Sensor:** MQ-2 Gas Sensor Module (with only the analog out connected)
 * **Software:** PlatformIO (IDE), Home Assistant (for the broker).
 
-### Schematic
+### Schematic | Wiring | Showcase
 
 ![GasSensor.png](hardware/GasSensor.png)
 ![wiring.png](hardware/wiring.png)
+![presentation](hardware/howItWorks.mp4)
 
 
 ## Key Features:
