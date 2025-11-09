@@ -1,0 +1,6 @@
+mqtt:
+  sensor:
+    - name: "Kitchen Gas Sensor"
+      state_topic: "home/kitchen/gas/state"
+      unit_of_measurement: "value"
+      icon: "mdi:gauge"
