@@ -1,4 +1,4 @@
-# ESP32 "Bare-Metal" (ESP-IDF) Gas Sensor
+# ESP32 BARE METAL GAS SENSOR
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
